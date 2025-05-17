@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BaseButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_margin">6dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">24dp</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+
+    <style name="NumberButton" parent="BaseButton">
+        <item name="android:backgroundTint">#2D2D2D</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="rippleColor">#404040</item>
+    </style>
+
+    <style name="FunctionButton" parent="BaseButton">
+        <item name="android:backgroundTint">#404040</item>
+        <item name="android:textColor">#FFA726</item>
+        <item name="rippleColor">#505050</item>
+    </style>
+
+    <style name="OperatorButton" parent="BaseButton">
+        <item name="android:backgroundTint">#404040</item>
+        <item name="android:textColor">#FFA726</item>
+        <item name="rippleColor">#505050</item>
+    </style>
+
+    <style name="EqualsButton" parent="BaseButton">
+        <item name="android:backgroundTint">#FFA726</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="rippleColor">#FFA726</item>
+    </style>
+
+</resources>
