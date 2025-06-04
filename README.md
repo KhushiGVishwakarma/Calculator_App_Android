@@ -1,7 +1,6 @@
-# PRODIGY_AD_01 – SmartCalc Android Calculator App
+# SmartCalc Android Calculator App
 
 ## 📱 Project Description:
-This is the first task of my **Android Development Internship at Prodigy InfoTech**.  
 I built **SmartCalc**, a modern, dark-themed calculator app inspired by the Windows Calculator. It supports all basic arithmetic operations with a sleek UI built using **Java and XML**.
 
 ## 🔧 Features:
@@ -21,12 +20,7 @@ I built **SmartCalc**, a modern, dark-themed calculator app inspired by the Wind
 [🔗 View My LinkedIn Post ➜](https://www.linkedin.com/posts/khushi-vishwakarma-152188341_androiddevelopment-java-xml-activity-7328401145717002240-CVhn)
 
 ## 📂 GitHub Repository:
-[🔗 PRODIGY_AD_01 GitHub Repo](https://github.com/KhushiGVishwakarma/PRODIGY_AD_01)
-
-## 📌 Task Info:
-- Track: Android Development
-- Internship: Prodigy InfoTech
-- Task 01: Calculator App
+[🔗 Calculator_App_Android GitHub Repo](https://github.com/KhushiGVishwakarma/Calculator_App_Android)
 
 ---
 
